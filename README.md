@@ -33,4 +33,4 @@ The analysis reveals that **Action** is the most popular global genre, yet **Nin
 - **Regional Sales Mix**: NA (44%), EU (27%), JP (8%), Other (11%).
 
 ---
-*Created using the Antigravity Skill Master framework.*
+*Created by Nimish Mathur*
